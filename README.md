@@ -17,10 +17,13 @@
   
 <img src="https://github.com/user-attachments/assets/4a615173-084f-46e1-bd0f-06c60b5574c4" width="600"/>
 
+  ------------------------------
+
 ## 2. 프로젝트 일정 
 
 <img src="https://github.com/user-attachments/assets/360869e3-c11c-4412-afcf-6a41fb2ad056" width="600"/>
 
+  ------------------------------
 # 작업 분할 구조 (WBS)
 
 ## 1. 단계별 작업 구성
